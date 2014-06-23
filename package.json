@@ -1,0 +1,31 @@
+{
+  "name": "herokunodejs",
+  "version": "0.0.0",
+  "description": "Getting started with NodeJs on Heroku",
+  "main": "web.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mpranivong/herokunodejs.git"
+  },
+  "keywords": [
+    "heroku",
+    "nodejs",
+    "starting"
+  ],
+  "author": "mpranivong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mpranivong/herokunodejs/issues"
+  },
+  "homepage": "https://github.com/mpranivong/herokunodejs",
+  "dependencies": {
+    "logfmt": "^1.1.2",
+    "express": "^4.4.4"
+  },
+  "engines": {
+  	"node": "0.10.x"
+  	}
+}
